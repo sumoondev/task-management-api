@@ -161,6 +161,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+GUIDE.md
 
 # Spyder project settings
 .spyderproject
